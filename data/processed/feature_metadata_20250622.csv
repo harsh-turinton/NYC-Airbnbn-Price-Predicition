@@ -1,0 +1,122 @@
+Feature,Type
+latitude,float64
+longitude,float64
+minimum_nights,int64
+number_of_reviews,int64
+reviews_per_month,float64
+calculated_host_listings_count,int64
+availability_365,int64
+review_year,int64
+review_month,int64
+review_day,int64
+review_dayofweek,int64
+has_review,int64
+review_quarter,int64
+days_since_last_review,int64
+review_recency_score,float64
+availability_rate,float64
+is_highly_available,int64
+is_rarely_available,int64
+avg_days_between_reviews,float64
+booking_frequency_score,float64
+is_high_season,int64
+is_low_season,int64
+distance_to_times_square,float64
+distance_to_central_park,float64
+distance_to_empire_state_building,float64
+distance_to_statue_of_liberty,float64
+distance_to_brooklyn_bridge,float64
+distance_to_yankee_stadium,float64
+distance_to_nearest_attraction,float64
+neighborhood_listing_count,int64
+neighborhood_avg_price,float64
+price_ratio_to_neighborhood_avg,float64
+borough_avg_price,float64
+price_ratio_to_borough_avg,float64
+geo_cluster,int32
+geo_cluster_avg_price,float64
+price_ratio_to_cluster_avg,float64
+location_premium_score,float64
+host_total_listings,int64
+is_professional_host,int64
+is_single_listing_host,int64
+popularity_score,float64
+room_type_Entire home/apt,bool
+room_type_Private room,bool
+room_type_Shared room,bool
+room_type_avg_price,float64
+price_ratio_to_room_type_avg,float64
+is_short_term,int64
+is_long_term,int64
+room_borough_avg_price,float64
+premium_property_score,float64
+premium_keyword_count,int64
+location_keyword_count,int64
+view_keyword_count,int64
+amenity_keyword_count,int64
+size_keyword_count,int64
+total_keyword_count,int64
+name_character_count,int64
+name_word_count,int64
+marketing_appeal_score,float64
+room_type_Entire home/apt,bool
+room_type_Private room,bool
+room_type_Shared room,bool
+neighbourhood_group_Brooklyn,bool
+neighbourhood_group_Manhattan,bool
+neighbourhood_group_Queens,bool
+neighbourhood_group_Staten Island,bool
+room_type_Private room,bool
+room_type_Shared room,bool
+price_category_Economy,bool
+price_category_Luxury,bool
+price_category_Premium,bool
+price_category_Standard,bool
+availability_category_Occasionally Available,bool
+availability_category_Moderately Available,bool
+availability_category_Highly Available,bool
+availability_category_Always Available,bool
+review_frequency_Low,bool
+review_frequency_Medium,bool
+review_frequency_High,bool
+review_frequency_Very High,bool
+host_type_Few Listings,bool
+host_type_Multiple Listings,bool
+host_type_Professional Host,bool
+season_Spring,bool
+season_Summer,bool
+season_Winter,bool
+review_volume_Some,bool
+review_volume_Many,bool
+review_volume_Numerous,bool
+minimum_nights_category_Short Stay,bool
+minimum_nights_category_Week Stay,bool
+minimum_nights_category_Month Stay,bool
+minimum_nights_category_Long Term,bool
+room_borough_interaction_Entire home/apt_Brooklyn,bool
+room_borough_interaction_Entire home/apt_Manhattan,bool
+room_borough_interaction_Entire home/apt_Queens,bool
+room_borough_interaction_Entire home/apt_Staten Island,bool
+room_borough_interaction_Other,bool
+room_borough_interaction_Private room_Bronx,bool
+room_borough_interaction_Private room_Brooklyn,bool
+room_borough_interaction_Private room_Manhattan,bool
+room_borough_interaction_Private room_Queens,bool
+room_borough_interaction_Private room_Staten Island,bool
+room_borough_interaction_Shared room_Bronx,bool
+room_borough_interaction_Shared room_Brooklyn,bool
+room_borough_interaction_Shared room_Manhattan,bool
+room_borough_interaction_Shared room_Queens,bool
+avail_bin_Medium,bool
+avail_bin_High,bool
+room_availability_interaction_Entire home/apt_Low,bool
+room_availability_interaction_Entire home/apt_Medium,bool
+room_availability_interaction_Entire home/apt_nan,bool
+room_availability_interaction_Private room_High,bool
+room_availability_interaction_Private room_Low,bool
+room_availability_interaction_Private room_Medium,bool
+room_availability_interaction_Private room_nan,bool
+room_availability_interaction_Shared room_High,bool
+room_availability_interaction_Shared room_Low,bool
+room_availability_interaction_Shared room_Medium,bool
+room_availability_interaction_Shared room_nan,bool
